@@ -1,0 +1,14 @@
+.body__background {
+    height: 80vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("/Img/dentist-with-dentistry-tools-isolated.jpg");
+    background-position: center;
+    background-repeat: no-repeat; }
+  
+  .body__titulo--morado {
+    font-size: 2.5rem;
+    padding-left: 3rem;
+    padding-top: 20rem;
+    color: #a239Ca;
+    font-family: Titulo-SV; }
